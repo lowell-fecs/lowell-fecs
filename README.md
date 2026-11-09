@@ -1,7 +1,7 @@
 ## Lowell FECS 
 ### Financial Engineering Computer Science
 
-This is where we have our projects for this club
+This is where we will have our projects for this club
 
 <!--
 **lowell-fecs/lowell-fecs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
