@@ -1,5 +1,5 @@
 ## Lowell FECS 
-### Financial Engineering Computer Science
+### Financial Engineering and Computer Science (FECS)
 
 This is where we will keep our projects for this club
 
